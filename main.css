@@ -1,0 +1,33 @@
+@media (min-device-width:320px) and (max-device-width:480px)
+{
+	}
+	
+	.Anothersub{
+   background-color: #ffff;
+   background-color: #39784E;
+	width: 50%;
+	margin: 7%;
+	height: 20%;
+	float: left;
+	text-align: center;
+	border-radius: 5%;
+
+
+}
+
+.sub{
+	background-color: #39784E;
+	width: 15%;
+	margin: 7%;
+	height: 10%;
+	border-radius: 5%;
+	text-align: center;
+	float: left;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+	border-radius: 15%;
+	margin: 4%;
+}
